@@ -16,7 +16,7 @@ public class Program {
 		Scanner sc=new Scanner(System.in);
 		
 		List<Funcionário> funcionarios=new ArrayList<Funcionário>();
-		System.out.println("Sistema de funcionários");
+		System.out.println("Sistema de funcionários"); jfjfjfjfjfj
 		System.out.println("Digite o número de funcionários");
 		int N=sc.nextInt();
 		
